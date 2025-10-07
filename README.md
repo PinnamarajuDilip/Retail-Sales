@@ -3,7 +3,7 @@
 Kaggle data link: https://www.kaggle.com/datasets/bhavikjikadara/global-electronics-retailers
 
 Description: 
-Thisretail dataset containstransactions across multiple regions, covering sales, customers overseveral years which
+This retail dataset containstransactions across multiple regions, covering sales, customers overseveral years which
 includes Store information, Products information and customer information
 
 Tasks performed:
